@@ -1,1 +1,0 @@
-# majas_lapa
