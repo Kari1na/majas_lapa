@@ -1,0 +1,56 @@
+#myGame {
+    position: absolute;  
+    top: 890px;         
+    right: 40px;   
+    height: 390px;  
+    width: 390px;   
+}
+.header{
+     background-color: rgb(240, 213, 233);
+     padding: 25px;
+    
+    }
+
+    h1 {
+        text-align: center;
+        color: white;
+    
+    }
+
+    .content{
+        background-color: rgb(211, 182, 203);
+        padding: 15px;
+    }
+    p {
+        text-align: left;
+        font-style: italic;
+      font-size: 23px;
+       color: white;
+
+    }
+
+    h2 {
+         text-align: left;
+          font-style: italic;
+          font-size: 23px;
+     color: white;
+
+    }
+    ol {
+        text-align: left;
+        font-style: italic;
+      font-size: 23px;
+       color: white;
+    }
+    h3 {
+        text-align: right;
+        font-style: italic;
+        font-size: 20px;
+     color: white;
+
+    }
+    .footer{
+         background-color: rgb(180, 148, 162);
+         padding: 35px;
+    }
+   
